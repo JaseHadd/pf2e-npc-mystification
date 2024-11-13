@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "github:League-of-Foundry-Developers/foundry-vtt-types#main",
+    "foundry-pf2e": "github:foundryvtt/pf2e"
+  }
+}

@@ -1,0 +1,7 @@
+#mystifyRules
+{
+    & footer > *
+    {
+        white-space: nowrap;
+    }
+}

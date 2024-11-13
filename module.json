@@ -1,0 +1,30 @@
+{
+  "$schema": "https://gist.githubusercontent.com/JaseHadd/e089d8c696d3cacb62af7c218930d752/raw/f5e83481361a0706360df0ec347719aa02af62af/fountry-vtt-module-schema.json",
+  "id": "pf2e-npc-mystification",
+  "title": "PF2e NPC Mystification",
+  "description": "A module for customizable NPC mystification, with different lists based on customizable criteria",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Jase Haddleton",
+      "discord": "jasehadd"
+    }
+  ],
+  "esmodules": [
+    "scripts/mystification.js"
+  ],
+  "styles": [
+    "styles/rules.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ]
+}
